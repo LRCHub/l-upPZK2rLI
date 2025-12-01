@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ときめきの導火線",
+  "base_artist": "今野友加里",
+  "createdAt": "2025-12-01T16:06:29.935141Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ときめきの導火線",
+      "artist": "今野友加里",
+      "has_synced": true,
+      "path": "select/01_ときめきの導火線_今野友加里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ときめきの導火線",
+      "artist": "中川翔子",
+      "has_synced": true,
+      "path": "select/02_ときめきの導火線_中川翔子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ときめきの導火線",
+      "artist": "花たん",
+      "has_synced": true,
+      "path": "select/03_ときめきの導火線_花たん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ときめきの導火線",
+      "artist": "ユリカ/花たん",
+      "has_synced": true,
+      "path": "select/04_ときめきの導火線_ユリカ_花たん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ときめきの導火線",
+      "artist": "Shoko Nakagawa",
+      "has_synced": true,
+      "path": "select/05_ときめきの導火線_Shoko_Nakagawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ときめきの導火線",
+      "artist": "YURiCa/花たん",
+      "has_synced": true,
+      "path": "select/06_ときめきの導火線_YURiCa_花たん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ときめきの導火線",
+      "artist": "中川 翔子",
+      "has_synced": false,
+      "path": "select/pl_01_ときめきの導火線_中川_翔子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ときめきの導火線",
+      "artist": "中川 翔子",
+      "has_synced": false,
+      "path": "select/pl_02_ときめきの導火線_中川_翔子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ときめきの導火線",
+      "artist": "中川 翔子",
+      "has_synced": false,
+      "path": "select/pl_03_ときめきの導火線_中川_翔子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ときめきの導火線",
+      "artist": "中川 翔子",
+      "has_synced": false,
+      "path": "select/pl_04_ときめきの導火線_中川_翔子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ときめきの導火線 (TV SIZE)",
+      "artist": "中川 翔子",
+      "has_synced": false,
+      "path": "select/pl_05_ときめきの導火線_(TV_SIZE)_中川_翔子.txt"
+    }
+  ]
+}
